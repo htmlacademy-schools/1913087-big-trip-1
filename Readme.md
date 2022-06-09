@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
-* Студент: [Догухан Каан](https://up.htmlacademy.ru/js2-urfu/1/user/1913087).
-* Наставник: `Неизвестно`.
+* Студент: [Дмитрий Крутиков](https://up.htmlacademy.ru/js2-urfu/1/user/1941959).
+* Наставник: [Юлия Корецкая](https://htmlacademy.ru/profile/id11886).
 
 ---
 
@@ -48,5 +48,5 @@ git clone SSH-адрес_вашего_форка
 
 Репозиторий создан для обучения на профессиональном курсе «[JavaScript. Архитектура клиентских приложений](https://htmlacademy.ru/intensive/ecmascript)» от [HTML Academy](https://htmlacademy.ru).
 
-[check-image]: https://github.com/htmlacademy-ecmascript/1913087-big-trip-1/workflows/Project%20check/badge.svg?branch=master
-[check-url]: https://github.com/htmlacademy-ecmascript/1913087-big-trip-1/actions
+[check-image]: https://github.com/htmlacademy-ecmascript/1941959-big-trip-1/workflows/Project%20check/badge.svg?branch=master
+[check-url]: https://github.com/htmlacademy-ecmascript/1941959-big-trip-1/actions
